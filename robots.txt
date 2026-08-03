@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-t3wcch.bighoki2ere.space/sitemap.xml
